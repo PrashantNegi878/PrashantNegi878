@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrashantNegi878
 - 👀 I’m interested in Web Dev, Python
-- 🌱 I’m currently learning Web Dev, ML
+- 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
