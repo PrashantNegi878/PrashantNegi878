@@ -1,7 +1,3 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
 class TraineeAnalyst:
 
     def __init__(self):
