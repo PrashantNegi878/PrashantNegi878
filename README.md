@@ -1,3 +1,4 @@
+
 class TraineeAnalyst:
 
     def __init__(self):
