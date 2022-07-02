@@ -8,7 +8,7 @@ class TraineeAnalyst:
         self.name = "Prashant Negi"
         self.role = "Trainee Analyst"
         self.language_spoken = ["Hindi", "English"]
-        self.interests = ["Python", "WebDev."]
+        self.interests = ["Python", "Java", "WebDev."]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
