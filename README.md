@@ -6,13 +6,13 @@ class TraineeAnalyst:
 
     def __init__(self):
         self.name = "Prashant Negi"
-        self.role = "Trainee Analyst"
+        self.role = "Full Stack Developer"
         self.language_spoken = ["Hindi", "English"]
-        self.interests = ["Python", "Java", "WebDev."]
+        self.interests = ["WebDev.", "Java", "Python"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = TraineeAnalyst()
+me = SoftwareEngineer()
 me.say_hi()
