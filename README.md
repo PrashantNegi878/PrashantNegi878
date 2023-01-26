@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
-class TraineeAnalyst:
+class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Prashant Negi"
