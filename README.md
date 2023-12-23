@@ -8,7 +8,7 @@ class SoftwareEngineer:
         self.name = "Prashant Negi"
         self.role = "Full Stack Developer"
         self.language_spoken = ["Hindi", "English"]
-        self.interests = ["WebDev.", "Java", "Python"]
+        self.interests = ["ReactJS", "Java", "Python"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
