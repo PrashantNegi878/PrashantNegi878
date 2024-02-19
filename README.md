@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **prashantnegi878@gmail.com**
+- 📫 How to reach me : **prashantnegi878@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ArOiZE9old9SsvSRi0vBA5Cn83qEpzcd/view?usp=sharing](My Resume)
+- 📄 Know about my experiences : [here](https://drive.google.com/file/d/1ArOiZE9old9SsvSRi0vBA5Cn83qEpzcd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
